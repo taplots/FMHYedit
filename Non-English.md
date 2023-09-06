@@ -349,6 +349,7 @@
 
 * [Pinoy Movies Hub](https://pinoymovieshub.mx/) - Movies
 * [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies
+* [Vivamax] (https://vivamax.asia/) - Movies
 * [MoviesniPipay](https://moviesnipipay.me/) - Movies / TV
 * [Pinoyflix](https://pinoyflix.to/) -  Movies / TV
 * [Pinoy TV](https://opaua.com/) - TV
